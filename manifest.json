@@ -1,0 +1,9 @@
+{
+  "name": "demo plugin",
+  "id": "1176797743074066120",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": [
+    "figma"
+  ]
+}
